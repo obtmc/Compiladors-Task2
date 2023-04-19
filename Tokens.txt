@@ -1,0 +1,6 @@
+Token [type=TokenType.NUM, lexeme=4]
+Token [type=TokenType.NUM, lexeme=8]
+Token [type=TokenType.PLUS, lexeme=+]
+Token [type=TokenType.NUM, lexeme=3]
+Token [type=TokenType.STAR, lexeme=*]
+Token [type=TokenType.EOF, lexeme=]
