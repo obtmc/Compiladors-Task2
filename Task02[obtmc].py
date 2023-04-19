@@ -140,7 +140,7 @@ if scanResult:
     # Devolvendo resultado
     print ('\nSaída: ', compResult, '\n');
 
-    # Abrindo e escrevendo no arquivos de saída        
+    # Abrindo e escrevendo no arquivo de saída        
     try:
         with open('Out.txt', 'w') as fileOutResult:
             fileOutResult.write(str(compResult));
